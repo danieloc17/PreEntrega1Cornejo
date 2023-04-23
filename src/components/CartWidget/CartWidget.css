@@ -1,0 +1,13 @@
+div {
+    position: relative;
+    text-align: center;
+}
+
+.contadorCarrito {
+    color: red;
+    position: absolute;
+}
+
+.imgCarrito {
+    width: 4rem;
+}
